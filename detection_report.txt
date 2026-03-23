@@ -1,0 +1,14 @@
+PEOPLE DETECTION REPORT
+==============================
+Video File: 855565-hd_1920_1080_24fps.mp4
+Peak Count: 13
+------------------------------
+Timestamp       | Count     
+0.9s            | 8         
+1.9s            | 7         
+2.8s            | 9         
+3.8s            | 9         
+4.8s            | 6         
+5.7s            | 4         
+6.7s            | 5         
+7.6s            | 9         

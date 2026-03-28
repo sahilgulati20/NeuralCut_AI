@@ -1,0 +1,19 @@
+AUDIO ANALYSIS REPORT
+==================================================
+Video: vlog_2person.mp4
+Duration (seconds): 0.00
+Total Words: 72
+Estimated Speaking Rate (WPM): 0.0
+
+Top Keywords:
+- video: 3
+- name: 2
+- lomash: 2
+- editor: 2
+- hello: 1
+- everyone: 1
+- sahil: 1
+- working: 1
+
+Summary:
+Hello everyone, my name is Sahil and this is Lomash. So we are working on a video editor software, means of AI video editor. So which we are going to edit the video for the person like vlogs, reels and other things. So we are team, neural cut and we will meet you soon and tell you what's up project.

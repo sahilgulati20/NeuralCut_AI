@@ -1,0 +1,5 @@
+AUDIO TRANSCRIPT
+==================================================
+Video: vlog_2person.mp4
+
+Hello everyone, my name is Sahil and this is Lomash. My name is Lomash. So we are working on a video editor software, means of AI video editor. So which we are going to edit the video for the person like vlogs, reels and other things. So we are team, neural cut and we will meet you soon and tell you what's up project. Till then take care and bye bye.
